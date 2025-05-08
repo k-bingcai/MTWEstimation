@@ -1,0 +1,14 @@
+name: mtw-env
+
+
+dependencies:
+    - cython
+    - ipython
+    - joblib>=0.12.5
+    - numpy>=1.12
+    - numba>=0.40.1
+    - scipy>=0.18.0
+    - matplotlib>=2.0.0
+    - scikit-learn>=0.20.1
+    - nose
+    - pytest
